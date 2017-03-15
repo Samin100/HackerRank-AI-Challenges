@@ -1,9 +1,7 @@
 # Introduction
-Solutions to HackerRank's AI problems found at https://www.hackerrank.com/domains/ai/ written in Python 3. These solutions are a work in progress and will be updated as I solve them.
+Solutions to HackerRank's AI problems found at https://www.hackerrank.com/domains/ai/ written in Python. New solutions will be added as I solve them or come up with a more efficient technique.
 
 # Completed Solutions
-These solutions are sorted by subdomains.
-<h2>Bot Building</h2>
 - Bot saves princess
 - Bot saves princess 2
 - BotClean
